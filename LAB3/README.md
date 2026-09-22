@@ -86,10 +86,10 @@ Thông tin phiên bản chi tiết của môi trường và các công cụ đư
 
 ## 7. Cấu trúc thư mục
 
-README.md
-AB3_K11_CNPM2_1150080130_LECONGDAT.docx
- evidence_sha256.csv
- output/
-logs/
+-README.md
+-AB3_K11_CNPM2_1150080130_LECONGDAT.docx
+-evidence_sha256.csv
+-output/
+-logs/
 ## Link youtube : https://youtu.be/M1myTt6G09Q
 
